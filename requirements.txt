@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+fpdf
+xgboost
+scikit-learn  # optional if your model uses sklearn
