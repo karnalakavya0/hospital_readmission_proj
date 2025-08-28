@@ -3,4 +3,6 @@ pandas
 numpy
 fpdf
 xgboost
-scikit-learn  # optional if your model uses sklearn
+scikit-learn 
+shap
+matplotlib
